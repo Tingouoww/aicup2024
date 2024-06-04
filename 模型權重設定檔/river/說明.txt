@@ -1,0 +1,4 @@
+train_opt_v9 - - 第一階段權重
+train_opt_v9_fine_v1 - - 第二階段權重 (此處epoch是 latest 的原因是 我訓練時自行將第一階段100epoch模型檔改名為latest)
+train_opt_v9_fine_v2 - - 第三階段權重 (此處epoch是 latest 的原因是 我訓練時自行將第二階段30epoch模型檔改名為latest)
+test_opt - - 生成權重設定

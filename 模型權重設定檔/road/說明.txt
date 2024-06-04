@@ -1,0 +1,3 @@
+train_opt_step1 - - 第一階段權重
+train_opt_step2 - -第二階段權重
+test_opt - - 測試權重
