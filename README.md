@@ -18,6 +18,7 @@
 - 各程式檔案使用說明請參考 [overview.md](docs/overview.md)
 - 競賽程式碼及其相關說明請直接下載 [aicup2024.ipynb](aicup2024.ipynb) 或進入下方雲端連結直接使用
 - 競賽報告請至 [競賽報告_TEAM_5556](競賽報告)
+- 模型權重請參考 [模型權重設定檔](模型權重設定檔)
 
 ## 大型檔案雲端連結
 [GOOGLE CLOUD](https://drive.google.com/drive/folders/1-jQx8Z9FtfxWSRHC5nv1TgTz36S0h308?usp=drive_link)
