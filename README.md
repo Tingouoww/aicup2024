@@ -16,5 +16,8 @@
 
 ## 文件說明
 - 各程式檔案使用說明請參考 [overview.md](docs/overview.md)
-- 程式碼原創部分說明請參考
-- 訓練程式碼及其說明請直接下載 <aicup2024.ipynb>
+- 訓練程式碼及其說明請直接下載 [aicup2024.ipynb](aicup2024.ipynb)
+- 競賽報告請至 [競賽報告_TEAM_5556](競賽報告)
+
+## 大型檔案雲端連結
+[GOOGLE CLOUD](https://drive.google.com/drive/folders/1-jQx8Z9FtfxWSRHC5nv1TgTz36S0h308?usp=drive_link)
