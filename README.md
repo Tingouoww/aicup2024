@@ -16,8 +16,11 @@
 
 ## 文件說明
 - 各程式檔案使用說明請參考 [overview.md](docs/overview.md)
-- 訓練程式碼及其說明請直接下載 [aicup2024.ipynb](aicup2024.ipynb)
+- 競賽程式碼及其相關說明請直接下載 [aicup2024.ipynb](aicup2024.ipynb) 或進入下方雲端連結直接使用
 - 競賽報告請至 [競賽報告_TEAM_5556](競賽報告)
 
 ## 大型檔案雲端連結
 [GOOGLE CLOUD](https://drive.google.com/drive/folders/1-jQx8Z9FtfxWSRHC5nv1TgTz36S0h308?usp=drive_link)
+雲端檔案中含有雲端檔案說明，請參閱雲端檔案使用
+雲端中包含已完成前處理之資料集、按照道路與河流完成分類的原始資料集、繳交成果運用之模型檔案
+同時，由於使用colab環境運行程式，故雲端中也存了一份競賽程式碼
